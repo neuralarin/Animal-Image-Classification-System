@@ -1,4 +1,4 @@
-# 🐾 Animal Image Classification System
+# Animal Image Classification System 🐾
 
 A simple deep learning project that classifies an uploaded animal image into its corresponding category using a **PyTorch CNN** and a **Streamlit** web application.
 
