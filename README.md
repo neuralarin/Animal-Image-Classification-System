@@ -11,6 +11,7 @@ Through this project, I learned how to:
 * Build a **CNN (Convolutional Neural Network)** using PyTorch
 * Train and evaluate a deep learning image classification model
 * Use **PyTorch tensors and DataLoaders**
+* Applied Early stopping to overcome overfitting.
 * Save and load a trained model using `.pth`
 * Make predictions on new images
 * Build a simple **Streamlit UI** for image upload and prediction
